@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{882E5C09-11AD-46BA-AA7E-12C86C867132}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3/InputOutput.cs">
+    <Files>
+      <File FileName="Task3/Program.cs" Line="20" Column="1" />
+      <File FileName="Task3/InputOutput.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Paskaita1014" expanded="True">
+            <Node name="Task2" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lukasurb/Projects/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="67" column="1" />
+      <Breakpoint file="/Users/lukasurb/Projects/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="70" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

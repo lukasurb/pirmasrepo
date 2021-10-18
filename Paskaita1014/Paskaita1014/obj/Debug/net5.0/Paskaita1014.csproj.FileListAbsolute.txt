@@ -1,0 +1,15 @@
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/Paskaita1014.deps.json
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/Paskaita1014.runtimeconfig.json
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/Paskaita1014.runtimeconfig.dev.json
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/Paskaita1014.dll
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/ref/Paskaita1014.dll
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/bin/Debug/net5.0/Paskaita1014.pdb
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.csproj.AssemblyReference.cache
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.AssemblyInfoInputs.cache
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.AssemblyInfo.cs
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.csproj.CoreCompileInputs.cache
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.dll
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/ref/Paskaita1014.dll
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.pdb
+/Users/lukasurb/Projects/Paskaita1014/Paskaita1014/obj/Debug/net5.0/Paskaita1014.genruntimeconfig.cache
