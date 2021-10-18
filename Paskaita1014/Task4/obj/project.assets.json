@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukasurb/Projects/Paskaita1014/Task4/Task4.csproj",
+      "projectUniqueName": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task4/Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "/Users/lukasurb/Projects/Paskaita1014/Task4/Task4.csproj",
+      "projectPath": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task4/Task4.csproj",
       "packagesPath": "/Users/lukasurb/.nuget/packages/",
-      "outputPath": "/Users/lukasurb/Projects/Paskaita1014/Task4/obj/",
+      "outputPath": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lukasurb/.config/NuGet/NuGet.Config"

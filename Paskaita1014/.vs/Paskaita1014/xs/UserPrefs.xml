@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{882E5C09-11AD-46BA-AA7E-12C86C867132}|Default">
+﻿<Properties StartupConfiguration="{8683C69E-4901-4E6A-9DE1-65868E74C4BA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Task3/InputOutput.cs">
     <Files>
       <File FileName="Task3/Program.cs" Line="20" Column="1" />
@@ -8,7 +8,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Paskaita1014" expanded="True">
-            <Node name="Task2" selected="True" />
+            <Node name="Task3" expanded="True">
+              <Node name="InputOutput.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -19,8 +21,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/lukasurb/Projects/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="67" column="1" />
-      <Breakpoint file="/Users/lukasurb/Projects/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="70" column="1" />
+      <Breakpoint file="/Users/lukasurb/pirmasrepo/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="67" column="1" />
+      <Breakpoint file="/Users/lukasurb/pirmasrepo/Paskaita1014/Task2/Skaiciai.cs" relfile="Task2/Skaiciai.cs" line="70" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

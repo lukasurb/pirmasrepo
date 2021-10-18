@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lukasurb/Projects/Paskaita1014/Task3/Task3.csproj": {}
+    "/Users/lukasurb/pirmasrepo/Paskaita1014/Task3/Task3.csproj": {}
   },
   "projects": {
-    "/Users/lukasurb/Projects/Paskaita1014/Task3/Task3.csproj": {
+    "/Users/lukasurb/pirmasrepo/Paskaita1014/Task3/Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lukasurb/Projects/Paskaita1014/Task3/Task3.csproj",
+        "projectUniqueName": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task3/Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "/Users/lukasurb/Projects/Paskaita1014/Task3/Task3.csproj",
+        "projectPath": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task3/Task3.csproj",
         "packagesPath": "/Users/lukasurb/.nuget/packages/",
-        "outputPath": "/Users/lukasurb/Projects/Paskaita1014/Task3/obj/",
+        "outputPath": "/Users/lukasurb/pirmasrepo/Paskaita1014/Task3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lukasurb/.config/NuGet/NuGet.Config"
