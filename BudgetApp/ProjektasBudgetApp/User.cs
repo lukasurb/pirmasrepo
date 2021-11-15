@@ -10,6 +10,7 @@ namespace ProjektasBudgetApp
     public class User
     {
         static protected Dictionary<string, string> VartotojuSarasas = new Dictionary<string, string>();
+        static protected List<Transaction> transactions;
 
         public static bool DuomenuUzkrovimas()
         {

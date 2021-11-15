@@ -100,6 +100,11 @@ namespace ProjektasBudgetApp
             Console.WriteLine("Tranzakcijos issaugotos");
         }
 
+        public static void SukurtiApzvalga(List<Transaction> transactionlist) 
+        {
+            var result = transactionlist.GroupBy(s => s.Category);
+            result.ForEach(s => Console.WriteLine($"{s.Category} {s.Amount}"));
+        }
     }
 
 }
